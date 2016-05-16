@@ -92,9 +92,6 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
-    <Content Include="ApplicationInsights.config">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="TileImages\150x150.png" />
     <Content Include="TileImages\30x30.png" />
     <Content Include="TileImages\310x150.png" />
